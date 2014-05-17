@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>HelloWorldPositionClass</members>
+        <members>MyExtension</members>
+        <members>PositionNewEditOverrideExtension</members>
+        <members>ReviewAltPositionExtension</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>PositionNewEditOverride</members>
+        <name>ApexPage</name>
+    </types>
+    <types>
+        <members>FinancialAccountCustomer__c</members>
+        <members>FinancialAccount__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Activity.MyActivities</members>
+        <members>Activity.MyDelegatedActivities</members>
+        <members>Activity.MyTeamsActivities</members>
+        <members>Activity.TodaysTasks</members>
+        <members>Activity.UpcomingEvents</members>
+        <name>ListView</name>
+    </types>
+    <version>29.0</version>
+</Package>

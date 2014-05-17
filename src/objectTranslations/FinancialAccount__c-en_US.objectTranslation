@@ -1,0 +1,736 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>FinancialAccount</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>FinancialAccounts</value>
+    </caseValues>
+    <fields>
+        <label><!-- ACH_Account_Number --></label>
+        <name>ACH_Account_Number__c</name>
+    </fields>
+    <fields>
+        <label><!-- ACH_Account_Type --></label>
+        <name>ACH_Account_Type__c</name>
+    </fields>
+    <fields>
+        <label><!-- ACH_Current_Effective_Date --></label>
+        <name>ACH_Current_Effective_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- ACH_Original_Effective_Date --></label>
+        <name>ACH_Original_Effective_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- ACH_Payment_Date_Next --></label>
+        <name>ACH_Payment_Date_Next__c</name>
+    </fields>
+    <fields>
+        <label><!-- ACH_Routing_Number --></label>
+        <name>ACH_Routing_Number__c</name>
+    </fields>
+    <fields>
+        <label><!-- Affiliate_Marketing_Source --></label>
+        <name>Affiliate_Marketing_Source__c</name>
+    </fields>
+    <fields>
+        <label><!-- Affiliate_Sharing_Source --></label>
+        <name>Affiliate_Sharing_Source__c</name>
+    </fields>
+    <fields>
+        <label><!-- Affiliate_Sharing --></label>
+        <name>Affiliate_Sharing__c</name>
+    </fields>
+    <fields>
+        <label><!-- Archive_Flag --></label>
+        <name>Archive_Flag__c</name>
+    </fields>
+    <fields>
+        <label><!-- Balloon_Code --></label>
+        <name>Balloon_Code__c</name>
+    </fields>
+    <fields>
+        <label><!-- Bank --></label>
+        <name>Bank__c</name>
+        <picklistValues>
+            <masterLabel>Picklist_Data_Goes_Here</masterLabel>
+            <translation><!-- Picklist_Data_Goes_Here --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Bankruptcy_Description --></label>
+        <name>Bankruptcy_Description__c</name>
+    </fields>
+    <fields>
+        <label><!-- Bankruptcy_Flag --></label>
+        <name>Bankruptcy_Flag__c</name>
+    </fields>
+    <fields>
+        <label><!-- BranchId --></label>
+        <name>BranchId__c</name>
+    </fields>
+    <fields>
+        <label><!-- Charge_Of_Finance_Account_Number --></label>
+        <name>Charge_Of_Finance_Account_Number__c</name>
+    </fields>
+    <fields>
+        <label><!-- Charge_PerDiem_Total --></label>
+        <name>Charge_PerDiem_Total__c</name>
+    </fields>
+    <fields>
+        <label><!-- Charges_Late --></label>
+        <name>Charges_Late__c</name>
+    </fields>
+    <fields>
+        <label><!-- Charges_Miscellaneous --></label>
+        <name>Charges_Miscellaneous__c</name>
+    </fields>
+    <fields>
+        <label><!-- Close_Code --></label>
+        <name>Close_Code__c</name>
+    </fields>
+    <fields>
+        <label><!-- Code_Edit_Message --></label>
+        <name>Code_Edit_Message__c</name>
+    </fields>
+    <fields>
+        <label><!-- Collection_Primary_Note --></label>
+        <name>Collection_Primary_Note__c</name>
+    </fields>
+    <fields>
+        <label><!-- Consumer_Type --></label>
+        <name>Consumer_Type__c</name>
+        <picklistValues>
+            <masterLabel>Picklist_Data_Goes_Here</masterLabel>
+            <translation><!-- Picklist_Data_Goes_Here --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Contract_Date --></label>
+        <name>Contract_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Counter_Payments_Remaining --></label>
+        <name>Counter_Payments_Remaining__c</name>
+    </fields>
+    <fields>
+        <label><!-- Customer_Number --></label>
+        <name>Customer_Number__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dealership_Number --></label>
+        <name>Dealership_Number__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dealership_Type --></label>
+        <name>Dealership_Type__c</name>
+        <picklistValues>
+            <masterLabel>Picklist_Data_Goes_Here</masterLabel>
+            <translation><!-- Picklist_Data_Goes_Here --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Dealership --></label>
+        <name>Dealership__c</name>
+    </fields>
+    <fields>
+        <label><!-- Edit_Message_Description --></label>
+        <name>Edit_Message_Description__c</name>
+    </fields>
+    <fields>
+        <label><!-- Expired_Term --></label>
+        <name>Expired_Term__c</name>
+    </fields>
+    <fields>
+        <label><!-- Fee_Deferment_Assessed --></label>
+        <name>Fee_Deferment_Assessed__c</name>
+    </fields>
+    <fields>
+        <label><!-- Fee_Deferment_Last_Date --></label>
+        <name>Fee_Deferment_Last_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Fee_Deferment_Paid --></label>
+        <name>Fee_Deferment_Paid__c</name>
+    </fields>
+    <fields>
+        <label><!-- Fee_Deferment_Waived --></label>
+        <name>Fee_Deferment_Waived__c</name>
+    </fields>
+    <fields>
+        <label><!-- Fee_Deferment_Zero_Value --></label>
+        <name>Fee_Deferment_Zero_Value__c</name>
+    </fields>
+    <fields>
+        <label><!-- Finance_Account_Archive_Type --></label>
+        <name>Finance_Account_Archive_Type__c</name>
+        <picklistValues>
+            <masterLabel>Picklist_Data_Goes_Here</masterLabel>
+            <translation><!-- Picklist_Data_Goes_Here --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Finance_Account_Number --></label>
+        <name>Finance_Account_Number__c</name>
+    </fields>
+    <fields>
+        <label><!-- Finance_Account_Product_Type --></label>
+        <name>Finance_Account_Product_Type__c</name>
+        <picklistValues>
+            <masterLabel>Picklist_Data_Goes_Here</masterLabel>
+            <translation><!-- Picklist_Data_Goes_Here --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Finance_Account_Status --></label>
+        <name>Finance_Account_Status__c</name>
+        <picklistValues>
+            <masterLabel>Picklist_Data_Goes_Here</masterLabel>
+            <translation><!-- Picklist_Data_Goes_Here --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Finance_Account_Type --></label>
+        <name>Finance_Account_Type__c</name>
+        <picklistValues>
+            <masterLabel>Picklist_Data_Goes_Here</masterLabel>
+            <translation><!-- Picklist_Data_Goes_Here --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Flag_Account_Statement_Request --></label>
+        <name>Flag_Account_Statement_Request__c</name>
+    </fields>
+    <fields>
+        <label><!-- Flag_Auto_Clearing_House --></label>
+        <name>Flag_Auto_Clearing_House__c</name>
+    </fields>
+    <fields>
+        <label><!-- Flag_Bill_Statement_Request --></label>
+        <name>Flag_Bill_Statement_Request__c</name>
+    </fields>
+    <fields>
+        <label><!-- Flag_Encore_Eligible --></label>
+        <name>Flag_Encore_Eligible__c</name>
+    </fields>
+    <fields>
+        <label><!-- Flag_Federal_Do_Not_Call --></label>
+        <name>Flag_Federal_Do_Not_Call__c</name>
+    </fields>
+    <fields>
+        <label><!-- Flag_Insurance --></label>
+        <name>Flag_Insurance__c</name>
+    </fields>
+    <fields>
+        <label><!-- Flag_Military_Status --></label>
+        <name>Flag_Military_Status__c</name>
+    </fields>
+    <fields>
+        <label><!-- Flag_OFSC --></label>
+        <name>Flag_OFSC__c</name>
+    </fields>
+    <fields>
+        <label><!-- Flag_Office_Of_Foreign_Asset_Control --></label>
+        <name>Flag_Office_Of_Foreign_Asset_Control__c</name>
+    </fields>
+    <fields>
+        <label><!-- Flag_SCRA_Status --></label>
+        <name>Flag_SCRA_Status__c</name>
+    </fields>
+    <fields>
+        <label><!-- Flag_Special_Handling --></label>
+        <name>Flag_Special_Handling__c</name>
+    </fields>
+    <fields>
+        <label><!-- Flag_State_DoNotCall --></label>
+        <name>Flag_State_DoNotCall__c</name>
+    </fields>
+    <fields>
+        <label><!-- Flag_Thirty_Plus_Days_Delinquant --></label>
+        <name>Flag_Thirty_Plus_Days_Delinquant__c</name>
+    </fields>
+    <fields>
+        <label><!-- Flag_Vehicle_Low_Mileage --></label>
+        <name>Flag_Vehicle_Low_Mileage__c</name>
+    </fields>
+    <fields>
+        <label><!-- Flag_Vehicle_Reposession --></label>
+        <name>Flag_Vehicle_Reposession__c</name>
+    </fields>
+    <fields>
+        <label><!-- Flag_Voice_Quote --></label>
+        <name>Flag_Voice_Quote__c</name>
+    </fields>
+    <fields>
+        <label><!-- Good_Through_Date --></label>
+        <name>Good_Through_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- History_Counter_Days_Past_Due --></label>
+        <name>History_Counter_Days_Past_Due__c</name>
+    </fields>
+    <fields>
+        <label><!-- Insurance_Description --></label>
+        <name>Insurance_Description__c</name>
+    </fields>
+    <fields>
+        <label><!-- Late_Charge_Assessed --></label>
+        <name>Late_Charge_Assessed__c</name>
+    </fields>
+    <fields>
+        <label><!-- Late_Charge_Paid --></label>
+        <name>Late_Charge_Paid__c</name>
+    </fields>
+    <fields>
+        <label><!-- Late_Charge_Waived --></label>
+        <name>Late_Charge_Waived__c</name>
+    </fields>
+    <fields>
+        <label><!-- Lease_Base_Rent --></label>
+        <name>Lease_Base_Rent__c</name>
+    </fields>
+    <fields>
+        <label><!-- Lease_Branch_Number --></label>
+        <name>Lease_Branch_Number__c</name>
+    </fields>
+    <fields>
+        <label><!-- Lease_Contract_Time_Amount --></label>
+        <name>Lease_Contract_Time_Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- Lease_Date --></label>
+        <name>Lease_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Lease_Late_Charge_Waived_Amount_To_Date --></label>
+        <name>Lease_Late_Charge_Waived_Amount_To_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Lease_Payment_Total_Rent --></label>
+        <name>Lease_Payment_Total_Rent__c</name>
+    </fields>
+    <fields>
+        <label><!-- Lease_Payoff_Amount_Gross --></label>
+        <name>Lease_Payoff_Amount_Gross__c</name>
+    </fields>
+    <fields>
+        <label><!-- Lease_Payoff_Amount_Quote --></label>
+        <name>Lease_Payoff_Amount_Quote__c</name>
+    </fields>
+    <fields>
+        <label><!-- Lease_Payoff_Amount --></label>
+        <name>Lease_Payoff_Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- Lease_Residual_End_of_Term_Amount --></label>
+        <name>Lease_Residual_End_of_Term_Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- Lease_State --></label>
+        <name>Lease_State__c</name>
+    </fields>
+    <fields>
+        <label><!-- Lease_TermType --></label>
+        <name>Lease_TermType__c</name>
+    </fields>
+    <fields>
+        <label><!-- Lease_Termination_Date --></label>
+        <name>Lease_Termination_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Lease_Type --></label>
+        <name>Lease_Type__c</name>
+    </fields>
+    <fields>
+        <label><!-- Loan_Amount_Original --></label>
+        <name>Loan_Amount_Original__c</name>
+    </fields>
+    <fields>
+        <label><!-- Loan_Current_Amount --></label>
+        <name>Loan_Current_Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- Loan_Date_Interest_To_Contract --></label>
+        <name>Loan_Date_Interest_To_Contract__c</name>
+    </fields>
+    <fields>
+        <label><!-- Loan_Due_Date_Change --></label>
+        <name>Loan_Due_Date_Change__c</name>
+    </fields>
+    <fields>
+        <label><!-- Loan_Interest_Paid --></label>
+        <name>Loan_Interest_Paid__c</name>
+    </fields>
+    <fields>
+        <label><!-- Loan_Interest_Rebate --></label>
+        <name>Loan_Interest_Rebate__c</name>
+    </fields>
+    <fields>
+        <label><!-- Loan_Maturity_Date --></label>
+        <name>Loan_Maturity_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Loan_Original_Term --></label>
+        <name>Loan_Original_Term__c</name>
+    </fields>
+    <fields>
+        <label><!-- Loan_Over_Payment_Amount --></label>
+        <name>Loan_Over_Payment_Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- Loan_Total_Interest_Paid --></label>
+        <name>Loan_Total_Interest_Paid__c</name>
+    </fields>
+    <fields>
+        <label><!-- Loan_TypeCode --></label>
+        <name>Loan_TypeCode__c</name>
+    </fields>
+    <fields>
+        <label><!-- Loan_Type --></label>
+        <name>Loan_Type__c</name>
+    </fields>
+    <fields>
+        <label><!-- Maturity_Date --></label>
+        <name>Maturity_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Message_Code1 --></label>
+        <name>Message_Code1__c</name>
+    </fields>
+    <fields>
+        <label><!-- Message_Code2 --></label>
+        <name>Message_Code2__c</name>
+    </fields>
+    <fields>
+        <label><!-- Message_Code3 --></label>
+        <name>Message_Code3__c</name>
+    </fields>
+    <fields>
+        <label><!-- Message_Code4 --></label>
+        <name>Message_Code4__c</name>
+    </fields>
+    <fields>
+        <label><!-- Party_Sharing_Source --></label>
+        <name>Party_Sharing_Source__c</name>
+    </fields>
+    <fields>
+        <label><!-- PayOff_Bank_Rebate_Amount --></label>
+        <name>PayOff_Bank_Rebate_Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- PayOff_Dealership_Rebate_Amount --></label>
+        <name>PayOff_Dealership_Rebate_Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- Payment_Amount_ACH --></label>
+        <name>Payment_Amount_ACH__c</name>
+    </fields>
+    <fields>
+        <label><!-- Payment_Amount_Balloon --></label>
+        <name>Payment_Amount_Balloon__c</name>
+    </fields>
+    <fields>
+        <label><!-- Payment_Amount_Last1 --></label>
+        <name>Payment_Amount_Last1__c</name>
+    </fields>
+    <fields>
+        <label><!-- Payment_Amount_Last2 --></label>
+        <name>Payment_Amount_Last2__c</name>
+    </fields>
+    <fields>
+        <label><!-- Payment_Amount_Last3 --></label>
+        <name>Payment_Amount_Last3__c</name>
+    </fields>
+    <fields>
+        <label><!-- Payment_Amount_Last --></label>
+        <name>Payment_Amount_Last__c</name>
+    </fields>
+    <fields>
+        <label><!-- Payment_Amount_Next --></label>
+        <name>Payment_Amount_Next__c</name>
+    </fields>
+    <fields>
+        <label><!-- Payment_Amount_Past_Due --></label>
+        <name>Payment_Amount_Past_Due__c</name>
+    </fields>
+    <fields>
+        <label><!-- Payment_Amount_Scheduled --></label>
+        <name>Payment_Amount_Scheduled__c</name>
+    </fields>
+    <fields>
+        <label><!-- Payment_Date_First --></label>
+        <name>Payment_Date_First__c</name>
+    </fields>
+    <fields>
+        <label><!-- Payment_Date_Last1 --></label>
+        <name>Payment_Date_Last1__c</name>
+    </fields>
+    <fields>
+        <label><!-- Payment_Date_Last2 --></label>
+        <name>Payment_Date_Last2__c</name>
+    </fields>
+    <fields>
+        <label><!-- Payment_Date_Last3 --></label>
+        <name>Payment_Date_Last3__c</name>
+    </fields>
+    <fields>
+        <label><!-- Payment_Date_Last_Extension --></label>
+        <name>Payment_Date_Last_Extension__c</name>
+    </fields>
+    <fields>
+        <label><!-- Payment_Date_Last --></label>
+        <name>Payment_Date_Last__c</name>
+    </fields>
+    <fields>
+        <label><!-- Payment_Date_Next --></label>
+        <name>Payment_Date_Next__c</name>
+    </fields>
+    <fields>
+        <label><!-- Payment_Date_Past_Due --></label>
+        <name>Payment_Date_Past_Due__c</name>
+    </fields>
+    <fields>
+        <label><!-- Payment_Depreciation_Amount --></label>
+        <name>Payment_Depreciation_Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- Payment_Extension_Fee_Assessed --></label>
+        <name>Payment_Extension_Fee_Assessed__c</name>
+    </fields>
+    <fields>
+        <label><!-- Payment_Extension_Fee_Deferred --></label>
+        <name>Payment_Extension_Fee_Deferred__c</name>
+    </fields>
+    <fields>
+        <label><!-- Payment_Extension_Fee_Paid --></label>
+        <name>Payment_Extension_Fee_Paid__c</name>
+    </fields>
+    <fields>
+        <label><!-- Payment_Extension_Fee_Waived --></label>
+        <name>Payment_Extension_Fee_Waived__c</name>
+    </fields>
+    <fields>
+        <label><!-- Payment_Extension_Fee --></label>
+        <name>Payment_Extension_Fee__c</name>
+    </fields>
+    <fields>
+        <label><!-- Payment_Income_Amount --></label>
+        <name>Payment_Income_Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- Payment_Insurance_Amount --></label>
+        <name>Payment_Insurance_Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- Payment_Last_Extension_Date --></label>
+        <name>Payment_Last_Extension_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Payment_Lease_Maintenance_Amount --></label>
+        <name>Payment_Lease_Maintenance_Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- Payment_Partial_Amount --></label>
+        <name>Payment_Partial_Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- Payment_Term_Remaining --></label>
+        <name>Payment_Term_Remaining__c</name>
+    </fields>
+    <fields>
+        <label><!-- Payoff_Amount_Gross --></label>
+        <name>Payoff_Amount_Gross__c</name>
+    </fields>
+    <fields>
+        <label><!-- Payoff_Amount_Net --></label>
+        <name>Payoff_Amount_Net__c</name>
+    </fields>
+    <fields>
+        <label><!-- Payoff_Amount --></label>
+        <name>Payoff_Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- Payoff_Good_Thru_Date --></label>
+        <name>Payoff_Good_Thru_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Privacy_Election_Affiliate_Marketing --></label>
+        <name>Privacy_Election_Affiliate_Marketing__c</name>
+    </fields>
+    <fields>
+        <label><!-- Privacy_Election_Affiliate_Sharing --></label>
+        <name>Privacy_Election_Affiliate_Sharing__c</name>
+    </fields>
+    <fields>
+        <label><!-- Privacy_Election_Dealership_Source --></label>
+        <name>Privacy_Election_Dealership_Source__c</name>
+    </fields>
+    <fields>
+        <label><!-- Privacy_Election_Dealership --></label>
+        <name>Privacy_Election_Dealership__c</name>
+    </fields>
+    <fields>
+        <label><!-- Privacy_Election_FCRA_Sharing_Source --></label>
+        <name>Privacy_Election_FCRA_Sharing_Source__c</name>
+    </fields>
+    <fields>
+        <label><!-- Privacy_Election_FCRA_Sharing --></label>
+        <name>Privacy_Election_FCRA_Sharing__c</name>
+    </fields>
+    <fields>
+        <label><!-- Privacy_Election_Telemarketing_Source --></label>
+        <name>Privacy_Election_Telemarketing_Source__c</name>
+    </fields>
+    <fields>
+        <label><!-- Privacy_Election_Telemarketing --></label>
+        <name>Privacy_Election_Telemarketing__c</name>
+    </fields>
+    <fields>
+        <label><!-- Privacy_Election_Third_Party_Sharing --></label>
+        <name>Privacy_Election_Third_Party_Sharing__c</name>
+    </fields>
+    <fields>
+        <label><!-- Privacy_State_Code --></label>
+        <name>Privacy_State_Code__c</name>
+    </fields>
+    <fields>
+        <label><!-- Purchase_Option_Amount --></label>
+        <name>Purchase_Option_Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- Recovery_Code --></label>
+        <name>Recovery_Code__c</name>
+        <picklistValues>
+            <masterLabel>Picklist_Data_Goes_Here</masterLabel>
+            <translation><!-- Picklist_Data_Goes_Here --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Recovery_Description --></label>
+        <name>Recovery_Description__c</name>
+    </fields>
+    <fields>
+        <label><!-- Region_Number --></label>
+        <name>Region_Number__c</name>
+    </fields>
+    <fields>
+        <label><!-- Retail_Branch_Number --></label>
+        <name>Retail_Branch_Number__c</name>
+    </fields>
+    <fields>
+        <label><!-- Reversal_Code --></label>
+        <name>Reversal_Code__c</name>
+    </fields>
+    <fields>
+        <label><!-- Risk_Strategy_Code --></label>
+        <name>Risk_Strategy_Code__c</name>
+        <picklistValues>
+            <masterLabel>Picklist_Data_Goes_Here</masterLabel>
+            <translation><!-- Picklist_Data_Goes_Here --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Sale_Code --></label>
+        <name>Sale_Code__c</name>
+    </fields>
+    <fields>
+        <label><!-- Security_Deposit_Amount --></label>
+        <name>Security_Deposit_Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- Tax_Local --></label>
+        <name>Tax_Local__c</name>
+    </fields>
+    <fields>
+        <label><!-- Tax_Payment --></label>
+        <name>Tax_Payment__c</name>
+    </fields>
+    <fields>
+        <label><!-- Tax_Sales_Payable --></label>
+        <name>Tax_Sales_Payable__c</name>
+    </fields>
+    <fields>
+        <label><!-- Term_Months_Expired --></label>
+        <name>Term_Months_Expired__c</name>
+    </fields>
+    <fields>
+        <label><!-- Term_Months_Original --></label>
+        <name>Term_Months_Original__c</name>
+    </fields>
+    <fields>
+        <label><!-- Term_Months_Remaining --></label>
+        <name>Term_Months_Remaining__c</name>
+    </fields>
+    <fields>
+        <label><!-- Type_Code_Description --></label>
+        <name>Type_Code_Description__c</name>
+    </fields>
+    <fields>
+        <label><!-- Type_Code --></label>
+        <name>Type_Code__c</name>
+        <picklistValues>
+            <masterLabel>Picklist_Data_Goes_Here</masterLabel>
+            <translation><!-- Picklist_Data_Goes_Here --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Unpaid_Late_Charge --></label>
+        <name>Unpaid_Late_Charge__c</name>
+    </fields>
+    <fields>
+        <label><!-- Unpaid_Miscellaneous_Charge --></label>
+        <name>Unpaid_Miscellaneous_Charge__c</name>
+    </fields>
+    <fields>
+        <label><!-- User_Remarks --></label>
+        <name>User_Remarks__c</name>
+    </fields>
+    <fields>
+        <label><!-- Vehicle_Charge_Per_Mile --></label>
+        <name>Vehicle_Charge_Per_Mile__c</name>
+    </fields>
+    <fields>
+        <label><!-- Vehicle_Flag_Low_Mileage --></label>
+        <name>Vehicle_Flag_Low_Mileage__c</name>
+    </fields>
+    <fields>
+        <label><!-- Vehicle_Insurance_Company --></label>
+        <name>Vehicle_Insurance_Company__c</name>
+    </fields>
+    <fields>
+        <label><!-- Vehicle_Insurance_Policy --></label>
+        <name>Vehicle_Insurance_Policy__c</name>
+    </fields>
+    <fields>
+        <label><!-- Vehicle_Mileage_Allowance --></label>
+        <name>Vehicle_Mileage_Allowance__c</name>
+    </fields>
+    <fields>
+        <label><!-- Vehicle_Mileage_Start --></label>
+        <name>Vehicle_Mileage_Start__c</name>
+    </fields>
+    <fields>
+        <label><!-- Vehicle_Sale_Type --></label>
+        <name>Vehicle_Sale_Type__c</name>
+    </fields>
+    <fields>
+        <label><!-- xxxAffiliate_Marketing_Source --></label>
+        <name>xxxAffiliate_Marketing_Source__c</name>
+    </fields>
+    <fields>
+        <label><!-- xxxAffiliate_Sharing_Source --></label>
+        <name>xxxAffiliate_Sharing_Source__c</name>
+    </fields>
+    <fields>
+        <label><!-- xxxCharge_Amount_Lease_ToDate --></label>
+        <name>xxxCharge_Amount_Lease_ToDate__c</name>
+    </fields>
+    <fields>
+        <label><!-- xxxThird_Party_Sharing_Source --></label>
+        <name>xxxThird_Party_Sharing_Source__c</name>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>
